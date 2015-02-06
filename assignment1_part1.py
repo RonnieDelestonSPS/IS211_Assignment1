@@ -19,5 +19,3 @@ def testListDivide():
     pass
   else:
     ListDivideException()
-
-  
